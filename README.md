@@ -9,4 +9,4 @@ To customise options for the parser, please consult the "Markdown" page in the a
     npm install nodebb-plugin-markdown
 
 ## 2024-11-24 更新中文设置界面
-![image](screenshot/插件 _ Markdown _ NodeBB 管理员控制面板.png?raw=true)
+![image](screenshot/管理员控制面板.png?raw=true)
